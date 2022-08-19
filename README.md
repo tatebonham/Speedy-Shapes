@@ -43,3 +43,12 @@ You know how you never wanted to be stuck in a loop avoiding shapes flying at yo
 4. Add new obstacles(ex. falling blocks)
 5. Give our cube a trail
 6. Make the cube rotate 90 deg on jumps
+
+---
+
+## Potential Roadblocks
+
+- making sure the face square I put on the cube matches the hit box correctly
+- setting up the levels to scroll at a speed that is fast enough to make jumps but not too fast you just go past platforms
+- making the second level load after hitting the portal
+- how to time what blocks spawning when
