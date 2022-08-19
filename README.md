@@ -1,6 +1,6 @@
 # Speedy-Shapes
 
-You ever want a be a speedy shape, well now you can! Introducing Speedy Shapes, you will play as Cringy the Cube making his way through the obstacle course that he can't seem to stop waking up in. Cringy must go through both levels to return back to his own reality and break the cycle once and for all.
+You know how you never wanted to be stuck in a loop avoiding shapes flying at you in high-speed, well too bad! Introducing Speedy Shapes, you will play as Cringy the Cube making his way through the obstacle course that he can't seem to stop waking up in. Cringy must go through both levels to return back to his own reality and break the cycle once and for all.
 
 ---
 
@@ -28,6 +28,7 @@ You ever want a be a speedy shape, well now you can! Introducing Speedy Shapes, 
 - If the cube dies send it back to the start of that current level
 - Make shapes scroll across the screen
 - Continue obstacles until sending the end portal taking you to the next level
+- Change our dafault cube to have a face
 - Create second level with a different obstacle course
 - Final portal to win and end the game
 - Keep track of deaths in a counter on screen
@@ -40,3 +41,5 @@ You ever want a be a speedy shape, well now you can! Introducing Speedy Shapes, 
 2. Add a 3rd level
 3. Add a High-Score counter
 4. Add new obstacles(ex. falling blocks)
+5. Give our cube a trail
+6. Make the cube rotate 90 deg on jumps
